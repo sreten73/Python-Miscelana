@@ -1,6 +1,6 @@
 import random
 
-# The quiz data. Keys are states and values are their capitals.
+# The quiz data. Keys are states and values are their Europe capitals.
 europe_capitals = {
     "Albania": "Tirana", "Andorra": "Andorra la Vella", "Austria": "Vienna", "Belarus": "Minsk",
     "Belgium": "Brussels", "Bosnia and Herzegovina": "Sarajevo", "Bulgaria": "Sofia", "Croatia": "Zagreb",
