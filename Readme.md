@@ -9,6 +9,6 @@ Various simple python scripts
 4. Backup folder to ZIP file
 - Simple backup solution to compress folder and its content to zip file
 5. Combine pdf files
-
+- Combines all the PDFs in the current working directory into a single PDF.
 
 ...will be continue
