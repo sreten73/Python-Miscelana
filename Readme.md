@@ -8,5 +8,7 @@ Various simple python scripts
 - Student get a quiz to try to answer which capital is for which Europe country
 4. Backup folder to ZIP file
 - Simple backup solution to compress folder and its content to zip file
+5. Combine pdf files
+
 
 ...will be continue
