@@ -10,5 +10,7 @@ Various simple python scripts
 - Simple backup solution to compress folder and its content to zip file
 5. Combine pdf files
 - Combines all the PDFs in the current working directory into a single PDF.
+6. Automatically move mouse
+- Move mouse 15 times in 45 seconds automatically. Numbers can be modify if needed.
 
 ...will be continue
