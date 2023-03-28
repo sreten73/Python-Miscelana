@@ -12,5 +12,7 @@ Various simple python scripts
 - Combines all the PDFs in the current working directory into a single PDF.
 6. Automatically move mouse
 - Move mouse 15 times in 45 seconds automatically. Numbers can be modify if needed.
+7. Screenshot
+- script to take screenshot with timeperiod of 5 seconds to set desired screen that we want to take a screenshot
 
 ...will be continue
