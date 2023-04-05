@@ -22,7 +22,7 @@ MyName
 try:
     server = smtplib.SMTP("smtp.gmail.com", 587)
     server.starttls()
-    server.login(sender_email, loz)
+    server.login(sender_email, password)
     print("Successfully login to gmail.")
 except:
     print("Login to gmail failed.Check once again gmail email and APP pass.")
