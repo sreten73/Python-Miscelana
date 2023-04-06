@@ -14,5 +14,7 @@ Various simple python scripts
 - Move mouse 15 times in 45 seconds automatically. Numbers can be modify if needed.
 7. Screenshot
 - script to take screenshot with timeperiod of 5 seconds to set desired screen that we want to take a screenshot
+8. Generator of the new strong password
+- script for generating new strong password with minimum lenght of 10 characters and must have at least one lowercase, uppercase, digit and special characters
 
 ...will be continue
