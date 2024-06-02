@@ -14,7 +14,7 @@ for guessesTaken in range(1,7):
         print('Your guess is too high.')
     else:
         break   # This condition is the correct guess!
-#Test commit1
+#Test commit12
 if guess == secretNumber:
     print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')
 else:
