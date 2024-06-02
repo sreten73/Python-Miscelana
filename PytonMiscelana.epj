@@ -1,0 +1,142 @@
+{
+  "header": {
+    "comment": "eric project file for project PytonMiscelana",
+    "copyright": "Copyright (C) 2024 \u0421\u0440\u0435\u0442\u0435\u043d \u0408\u043e\u043a\u0438\u045b, ",
+    "saved": "2024-06-02, 16:45:59"
+  },
+  "project": {
+    "AUTHOR": "\u0421\u0440\u0435\u0442\u0435\u043d \u0408\u043e\u043a\u0438\u045b",
+    "CHECKERSPARMS": {},
+    "DESCRIPTION": "",
+    "DOCSTRING": "",
+    "DOCUMENTATIONPARMS": {},
+    "EMAIL": "",
+    "EMBEDDED_VENV": false,
+    "EOL": -1,
+    "FILETYPES": {
+      "*.cfg": "OTHERS",
+      "*.epj": "OTHERS",
+      "*.ini": "OTHERS",
+      "*.json": "OTHERS",
+      "*.md": "OTHERS",
+      "*.py": "SOURCES",
+      "*.py3": "SOURCES",
+      "*.pyw": "SOURCES",
+      "*.pyw3": "SOURCES",
+      "*.qm": "TRANSLATIONS",
+      "*.rst": "OTHERS",
+      "*.toml": "OTHERS",
+      "*.ts": "TRANSLATIONS",
+      "*.txt": "OTHERS",
+      "*.ui": "FORMS",
+      "*.yaml": "OTHERS",
+      "*.yml": "OTHERS",
+      "GNUmakefile": "OTHERS",
+      "Makefile": "OTHERS",
+      "README": "OTHERS",
+      "README.*": "OTHERS",
+      "makefile": "OTHERS"
+    },
+    "FORMS": [],
+    "HASH": "5fc13b2b84adff9797900a27bca1331aa69fc514",
+    "IDLPARAMS": {
+      "DefinedNames": [],
+      "IncludeDirs": [],
+      "UndefinedNames": []
+    },
+    "LEXERASSOCS": {},
+    "LICENSE": "",
+    "MAINSCRIPT": "",
+    "MAKEPARAMS": {
+      "MakeEnabled": false,
+      "MakeExecutable": "",
+      "MakeFile": "",
+      "MakeParameters": "",
+      "MakeTarget": "",
+      "MakeTestOnly": true
+    },
+    "MIXEDLANGUAGE": false,
+    "OTHERS": [
+      ".gitignore",
+      "Readme.md"
+    ],
+    "OTHERTOOLSPARMS": {},
+    "PACKAGERSPARMS": {},
+    "PROGLANGUAGE": "Python3",
+    "PROJECTTYPE": "PyQt6",
+    "PROJECTTYPESPECIFICDATA": {},
+    "RCCPARAMS": {
+      "CompressLevel": 0,
+      "CompressionDisable": false,
+      "CompressionThreshold": 70,
+      "PathPrefix": ""
+    },
+    "RESOURCES": [],
+    "SOURCES": [
+      "01.guessTheNumber.py",
+      "02.sending_email_simple_way.py",
+      "03.randomQuizGenerator-Europe.py",
+      "04.BackupToZip.py",
+      "05.combine_PDF_files.py",
+      "06.move_mouse_automatically.py",
+      "07.screenshot.py",
+      "08.make_new_strong_password.py"
+    ],
+    "SOURCESDIR": "",
+    "SPELLEXCLUDES": "",
+    "SPELLLANGUAGE": "en_US",
+    "SPELLWORDS": "",
+    "TESTING_FRAMEWORK": "",
+    "TRANSLATIONEXCEPTIONS": [],
+    "TRANSLATIONPATTERN": "",
+    "TRANSLATIONS": [],
+    "TRANSLATIONSBINPATH": "",
+    "TRANSLATIONSOURCESTARTPATH": "",
+    "UICPARAMS": {
+      "Package": "",
+      "PackagesRoot": "",
+      "RcSuffix": ""
+    },
+    "VCS": "Git",
+    "VCSOPTIONS": {
+      "add": [
+        ""
+      ],
+      "checkout": [
+        ""
+      ],
+      "commit": [
+        ""
+      ],
+      "diff": [
+        ""
+      ],
+      "export": [
+        ""
+      ],
+      "global": [
+        ""
+      ],
+      "history": [
+        ""
+      ],
+      "log": [
+        ""
+      ],
+      "remove": [
+        ""
+      ],
+      "status": [
+        ""
+      ],
+      "tag": [
+        ""
+      ],
+      "update": [
+        ""
+      ]
+    },
+    "VCSOTHERDATA": {},
+    "VERSION": "1"
+  }
+}
